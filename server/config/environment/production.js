@@ -17,7 +17,7 @@ module.exports = {
     uri:    'mongodb://takhshila-prod:takhshilaProd123@localhost/takhshila'
   },
 
-  sslServer: true,
+  sslServer: false,
 
   seedDB: true,
 
