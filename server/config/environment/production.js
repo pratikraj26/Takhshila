@@ -19,6 +19,8 @@ module.exports = {
 
   sslServer: true,
 
+  seedDB: true,
+
   msg91: {
     apiBase: "http://api.msg91.com/api/sendhttp.php",
     authkey: "181964ASuehXXhrB59fb3097",
